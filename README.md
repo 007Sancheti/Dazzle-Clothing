@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Live Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Deployed on Heroku. Click here for [Live Demo](https://dazzle-live.herokuapp.com/).
 
 ## Available Scripts
 
